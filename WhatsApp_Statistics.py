@@ -20,7 +20,7 @@ from fpdf import FPDF
 
 # hier der volle Vorname und der erste Buchstaben vom nachname +.. Wenn unklar ist, einfach in die .txt Datei schauen.
 Mein_Name="Stephan"
-name_fremd="Elisabeth Enders"
+name_fremd="Elisabeth"
 
 
 datei_zum_offnen="WhatsApp Chat mit "+name_fremd+".txt"
